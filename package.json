@@ -1,0 +1,25 @@
+{
+  "name": "kastcoin",
+  "version": "0.1.0",
+  "description": "My own cryptocurrency",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icastillejogomez/kastcoin.git"
+  },
+  "keywords": [
+    "blockchain",
+    "crypto",
+    "cryptocurrency",
+    "kastcoin"
+  ],
+  "author": "Ignacio F. Castillejo Gómez <i.castillejogomez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icastillejogomez/kastcoin/issues"
+  },
+  "homepage": "https://github.com/icastillejogomez/kastcoin#readme"
+}
