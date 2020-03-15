@@ -1,0 +1,2 @@
+# kastcoin
+My own cryptocurrency.
