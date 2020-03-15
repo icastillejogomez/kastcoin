@@ -1,2 +1,3 @@
 # kastcoin
-My own cryptocurrency.
+
+Welcome to my own cryptocurrency. Let me tell you about it...
